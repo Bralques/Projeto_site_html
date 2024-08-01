@@ -1,1 +1,1 @@
-# Projeto_site_html
+Projeto do meu primeiro site, em HTML Puro.
